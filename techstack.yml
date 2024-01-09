@@ -1,0 +1,20 @@
+repo_name: 2lambda123/ChinaTunnel
+report_id: 737286c59aa828f3b7287408ebe45b99
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T06:57:18+00:00'
+requested_by: yanggis
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/ChinaTunnel
+  detection_source: Repo Metadata
